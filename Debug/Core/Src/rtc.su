@@ -1,0 +1,5 @@
+../Core/Src/rtc.c:31:6:MX_RTC_Init	32	static
+../Core/Src/rtc.c:96:6:HAL_RTC_MspInit	32	static
+../Core/Src/rtc.c:127:6:HAL_RTC_MspDeInit	16	static
+../Core/Src/rtc.c:148:6:HAL_RTCEx_WakeUpTimerEventCallback	88	static
+../Core/Src/rtc.c:169:5:__io_putchar	16	static
